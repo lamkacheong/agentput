@@ -89,3 +89,6 @@ tmp/
 *.exe
 *.o
 *.so
+
+# Frontend build output (served by backend)
+backend/static/
